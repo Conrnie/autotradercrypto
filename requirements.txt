@@ -1,6 +1,3 @@
-# ========== AI Model ==========
-anthropic==0.40.0
-
 # ========== Crypto/Trading ==========
 # HyperLiquid
 hyperliquid-python-sdk==0.20.0
